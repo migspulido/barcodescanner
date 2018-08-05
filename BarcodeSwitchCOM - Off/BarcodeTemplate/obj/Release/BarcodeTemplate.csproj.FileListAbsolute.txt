@@ -1,0 +1,8 @@
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\obj\Release\Interop.CoreScanner.dll
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\obj\Release\BarcodeTemplate.csproj.ResolveComReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\bin\Release\BarcodeTemplate.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\bin\Release\BarcodeTemplate.pdb
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\bin\Release\Interop.CoreScanner.dll
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\obj\Release\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\obj\Release\BarcodeTemplate.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - Off\BarcodeTemplate\obj\Release\BarcodeTemplate.pdb

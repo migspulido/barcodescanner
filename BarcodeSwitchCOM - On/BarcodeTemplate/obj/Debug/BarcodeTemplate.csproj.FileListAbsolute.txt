@@ -1,0 +1,28 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\bin\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\bin\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\bin\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\obj\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\obj\Debug\BarcodeTemplate.csproj.ResolveComReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\obj\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeTemplate\BarcodeTemplate\obj\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\obj\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\obj\Debug\BarcodeTemplate.csproj.ResolveComReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\obj\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\obj\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\bin\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\bin\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM\BarcodeTemplate\bin\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.csproj.ResolveComReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\bin\Debug\BarcodeTemplate.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\bin\Debug\BarcodeTemplate.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\bin\Debug\Interop.CoreScanner.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\Interop.CoreScanner.dll
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.csproj.ResolveComReference.cache
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.exe
+C:\Users\migs\Documents\Visual Studio 2008\Projects\BarcodeSwitchCOM - On\BarcodeTemplate\obj\Debug\BarcodeTemplate.pdb
